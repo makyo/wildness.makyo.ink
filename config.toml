@@ -1,0 +1,9 @@
+baseURL = 'https://wildness.makyo.ink/'
+languageCode = 'en-us'
+title = 'A Wildness of the Heart'
+theme = 'maddybook'
+
+[params]
+    author = 'Madison Scott-Clary'
+    home = 'https://makyo.ink'
+    copyright = 2021
