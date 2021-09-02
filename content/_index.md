@@ -31,3 +31,7 @@ I'm struck by how, after finishing the collection, it feels like I've witnessed 
 * Sorting Laundry
 * Morning Of
 * Of Foxes and Milkshakes
+
+### Content Warnings
+
+*Jump* contains mentions of sex and emotional abuse. *Limerent Object* contains strong religious themes. *Gigs* contains mentions of misogyny. *Sorting Laundry* contains mentions of transphobia. *Foxes and Milkshakes* contains homophobia.
