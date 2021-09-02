@@ -32,6 +32,9 @@ ul li {
     font-family: "Tom's New Roman", serif;
     text-align: center;
 }
+.title blockquote:first-of-type {
+    font-style: italic;
+}
 ul.pagination {
     list-style-type: none;
     font-family: "Tom's New Roman", serif;

@@ -13,6 +13,16 @@ Six tales of love. Six tales of need, of desire, of how to live with the ones yo
 
 **Coming November 1, 2021!**
 
+-----
+
+## Advance praise
+
+I'm struck by how, after finishing the collection, it feels like I've witnessed a ritual.
+
+--- [*Rob MacWolf*](https://twitter.com/guywhowrotethis)
+
+-----
+
 ## Contents
 
 * Jump
