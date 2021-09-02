@@ -20,7 +20,7 @@ header {
 footer {
     border-bottom: none;
 }
-header a {
+header a, header a:visited, header a:active, header a:hover {
     color: #222;
     text-decoration: none;
 }
