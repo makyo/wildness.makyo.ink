@@ -1,7 +1,7 @@
 ---
 ---
 
-![Cover coming soon!](https://via.placeholder.com/1024x1583.png?text=A+Wildness+of+the+Heart)
+![Cover coming soon!](https://via.placeholder.com/1024x1583.png?text=Cover+coming+soon!)
 
 > To call what I am feeling a 'crush' feels inexact. It is not puppy love. It is not new relationship energy. It is not lust. It is an uncontrollable romantic desire.
 >
