@@ -5,12 +5,18 @@
     font-style: normal;
     src: url("/tomnr.woff") format("woff");
 }
-header {
+header, footer {
     margin: 0 auto;
     max-width: 640px;
     font-family: "Tom's New Roman", serif;
     font-size: 18pt;
     text-align: center;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom:1px solid rgba(0, 0, 0, 0.1);
+}
+h1 small {
+    display: block;
+    font-size: 50%;
 }
 ul {
     list-style-type: none;
@@ -25,6 +31,26 @@ ul li {
     list-style-type: none;
     font-family: "Tom's New Roman", serif;
     text-align: center;
+}
+ul.pagination {
+    list-style-type: none;
+    font-family: "Tom's New Roman", serif;
+    text-align: center;
+}
+li.page-item {
+    display: inline-block;
+    margin: 0 0.5rem;
+    padding: 0;
+}
+hr {
+    border: none;
+    width: 3em;
+    margin: 1em auto;
+}
+hr::before {
+    content: '§';
+    display: block;
+    text-align: center; 
 }
 main {
     margin: 0 auto;
