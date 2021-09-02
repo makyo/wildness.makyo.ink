@@ -1,5 +1,21 @@
 ---
-type: single
 ---
 
-Blah blah
+![Cover coming soon!](https://via.placeholder.com/1024x1583.png?text=A+Wildness+of+the+Heart)
+
+> To call what I am feeling a 'crush' feels inexact. It is not puppy love. It is not new relationship energy. It is not lust. It is an uncontrollable romantic desire.
+>
+> It is not grounded in our friendship or my attraction to her. It is more of an obsession. A desperate need for her to feel the same way about me. A craving. A pang. A wildness of the heart that is as frightening as it is pleasant.
+>
+> It is an unmoored, unmooring thing, drawing me ever upwards in lazy, undirected arcs almost --- *almost* --- against my will, ever closer to the sun.
+
+Six tales of love. Six tales of need, of desire, of how to live with the ones you cannot live without. Sawtooth may be a nothing town in a flyover state, but those that live there are no less real for it. They bear all the same emotions as anyone else, have all the same needs.
+
+## Contents
+
+* Jump
+* Limerent Object
+* Gigs
+* Sorting Laundry
+* Morning Of
+* Of Foxes and Milkshakes

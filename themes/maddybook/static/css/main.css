@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Gentium+Book+Basic");
+@font-face {
+    font-family: "Tom's New Roman";
+    font-weight: 400;
+    font-style: normal;
+    src: url("/tomnr.woff") format("woff");
+}
+header {
+    margin: 0 auto;
+    max-width: 640px;
+    font-family: "Tom's New Roman", serif;
+    font-size: 18pt;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 1rem 0;
+    padding: 0;
+}
+ul li {
+    margin: 1rem;
+    padding: 0;
+}
+.title ul {
+    list-style-type: none;
+    font-family: "Tom's New Roman", serif;
+    text-align: center;
+}
+main {
+    margin: 0 auto;
+    max-width: 640px;
+    font-family: "Gentium Book Basic", serif;
+    font-size: 18pt;
+    text-align: justify;
+}
+.title img {
+    max-width: 50%;
+    margin: 0 auto;
+    display: block;
+}
+h1, h2 {
+    font-family: "Tom's New Roman", sans-serif;
+    text-align: center;
+}

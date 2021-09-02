@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'A Wildness of the Heart'
 theme = 'maddybook'
 
+[permalinks]
+    post = '/:filename/'
+
 [params]
     author = 'Madison Scott-Clary'
     home = 'https://makyo.ink'
