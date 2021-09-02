@@ -14,23 +14,30 @@ header, footer {
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     border-bottom:1px solid rgba(0, 0, 0, 0.1);
 }
+header {
+    border-top: none;
+}
+footer {
+    border-bottom: none;
+}
+header a {
+    color: #222;
+    text-decoration: none;
+}
 h1 small {
     display: block;
     font-size: 50%;
-}
-ul {
-    list-style-type: none;
-    margin: 1rem 0;
-    padding: 0;
-}
-ul li {
-    margin: 1rem;
-    padding: 0;
 }
 .title ul {
     list-style-type: none;
     font-family: "Tom's New Roman", serif;
     text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.title ul li {
+    margin: 1rem 0;
+    padding: 0;
 }
 .title blockquote:first-of-type {
     font-style: italic;
@@ -61,6 +68,13 @@ main {
     font-family: "Gentium Book Basic", serif;
     font-size: 18pt;
     text-align: justify;
+    color: #222;
+}
+a {
+    color: #262;
+}
+a:visited {
+    color: #266;
 }
 .title img {
     max-width: 50%;
