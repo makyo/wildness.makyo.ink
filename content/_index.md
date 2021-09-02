@@ -11,6 +11,8 @@
 
 Six tales of love. Six tales of need, of desire, of how to live with the ones you cannot live without. Sawtooth may be a nothing town in a flyover state, but those that live there are no less real for it. They bear all the same emotions as anyone else, have all the same needs.
 
+**Coming November 1, 2021!**
+
 ## Contents
 
 * Jump
