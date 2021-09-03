@@ -2,6 +2,7 @@ baseURL = 'https://wildness.makyo.ink/'
 languageCode = 'en-us'
 title = 'A Wildness of the Heart'
 theme = 'maddybook'
+paginatePath = ""
 
 [permalinks]
     post = '/:filename/'
@@ -10,3 +11,6 @@ theme = 'maddybook'
     author = 'Madison Scott-Clary'
     home = 'https://makyo.ink'
     copyright = 2021
+
+[markup.goldmark.renderer]
+    unsafe = true

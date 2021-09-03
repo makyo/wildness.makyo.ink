@@ -78,13 +78,15 @@ main {
 main p {
     margin: 0;
     text-indent: 2em;
+    hyphens: auto;
+    -webkit-hyphens: auto;
 }
 main p:first-of-type {
     text-indent: 0;
 }
 main blockquote {
-    margin-left: 0;
-    padding-left: 2rem;
+    margin: 1rem 0;
+    padding: 0 0 0 2rem;
     border-left: 3px solid #ddd;
 }
 main blockquote p {
@@ -137,7 +139,6 @@ h1, h2 {
     main, header, footer {
         width: 100%;
         padding: 0 2rem;
-        text-align: left;
     }
     .footnotes hr {
         width: 50%;
