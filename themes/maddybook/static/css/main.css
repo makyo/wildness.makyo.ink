@@ -49,8 +49,12 @@ ul.pagination {
 }
 li.page-item {
     display: inline-block;
-    margin: 0 0.5rem;
+    margin: 0;
     padding: 0;
+}
+li.page-item a {
+    padding: 0 0.5rem;
+    margin: 0;
 }
 hr {
     border: none;
@@ -69,6 +73,45 @@ main {
     font-size: 18pt;
     text-align: justify;
     color: #222;
+    line-height: 1.5;
+}
+main p {
+    margin: 0;
+    text-indent: 2em;
+}
+main p:first-of-type {
+    text-indent: 0;
+}
+main blockquote {
+    margin-left: 0;
+    padding-left: 2rem;
+    border-left: 3px solid #ddd;
+}
+main blockquote p {
+    text-indent: 0;
+}
+main blockquote p + p {
+    margin-top: 1rem;
+}
+main blockquote + p {
+    text-indent: 0;
+}
+.footnotes {
+    font-size: 80%;
+}
+.footnotes ol {
+    padding-left: 1.5rem;
+}
+.footnotes hr::before {
+    content: '';
+}
+.footnotes hr {
+    margin-left: 0;
+    width: 25%;
+    border-top: 1px solid #222;
+}
+.footnotes p {
+    text-indent: 0;
 }
 a {
     color: #262;
@@ -94,5 +137,9 @@ h1, h2 {
     main, header, footer {
         width: 100%;
         padding: 0 2rem;
+        text-align: left;
+    }
+    .footnotes hr {
+        width: 50%;
     }
 }
