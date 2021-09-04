@@ -43,6 +43,8 @@ h1 small {
     font-style: italic;
 }
 ul.pagination {
+    margin: 1rem 0;
+    padding: 0;
     list-style-type: none;
     font-family: "Tom's New Roman", serif;
     text-align: center;
