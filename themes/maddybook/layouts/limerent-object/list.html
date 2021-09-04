@@ -2,7 +2,7 @@
 <main id="main">
     <h2>Limerent Object</h2>
     {{ $paginator := .Paginate (.Pages) 1 }}
-    {{ template "_internal/pagination.html" . }}
+    {{ partial "pagination.html" . }}
     {{ range $paginator.Pages }}
     {{ .Content }}
     {{end}}
