@@ -1,7 +1,7 @@
 ---
 ---
 
-<!--![A small preview...](/detail-sketch.jpg)-->
+![A small preview...](/cover-front.jpg)
 
 > To call what I am feeling a 'crush' feels inexact. It is not puppy love. It is not new relationship energy. It is not lust. It is an uncontrollable romantic desire.
 >
