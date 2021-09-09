@@ -30,7 +30,6 @@ h1 small {
 }
 .title ul {
     list-style-type: none;
-    font-family: "Tom's New Roman", serif;
     text-align: center;
     margin: 0;
     padding: 0;
@@ -38,6 +37,15 @@ h1 small {
 .title ul li {
     margin: 1rem 0;
     padding: 0;
+}
+.title ul li p:first-of-type {
+    font-family: "Tom's New Roman", serif;
+    font-size: 20pt;
+    text-align: center;
+}
+.title ul li p {
+    text-indent: 0;
+    text-align: justify;
 }
 .title blockquote:first-of-type {
     font-style: italic;
