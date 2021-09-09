@@ -6,7 +6,7 @@
 <div class="order">
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gumroad.com/l/TiACLd">Pre-order ebook</a>
-<a class="gumroad-button" href="https://gumroad.com/l/TiACLd">Pre-order paperback</a>
+<a class="gumroad-button" href="https://makyo-ink.square.site/product/awoth/8">Pre-order paperback</a>
 </div>
 
 > To call what I am feeling a 'crush' feels inexact. It is not puppy love. It is not new relationship energy. It is not lust. It is an uncontrollable romantic desire.
