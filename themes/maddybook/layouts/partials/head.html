@@ -6,7 +6,7 @@
     <meta property="og:title" content="{{ if .Params.title }}{{.Params.title | plainify }} | {{end}}A Wildness of the Heart" />
     <meta property="og:site_name" content="A Wildness of the Heart | Madison Scott-Clary" />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="/square.jpg" />
+    <meta property="og:image" content="{{ "/square.jpg" | absURL }}" />
     <meta property="og:url" content="{{ .Permalink }}" />
     <meta property="og:description" content="A Wildness of the Heart: Limerent Object and Other Stories by Madison Scott-Clary" />
 
@@ -15,7 +15,7 @@
     <meta name="twitter:site" content="@makyo_writes" />
     <meta name="twitter:title" content="{{ if .Params.title }}{{.Params.title | plainify }} | {{end}}A Wildness of the Heart" />
     <meta name="twitter:description" content="A Wildness of the Heart: Limerent Object and Other Stories by Madison Scott-Clary" />
-    <meta name="twitter:image" content="/square.png" />
+    <meta name="twitter:image" content="{{ "/square.png" | absURL }}" />
 
     <!-- JSON-LD metadata -->
     <script type="application/ld+json">
