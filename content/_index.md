@@ -3,6 +3,12 @@
 
 ![The book's cover](/cover-front.jpg)
 
+<div class="order">
+<script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gumroad.com/l/TiACLd">Pre-order ebook</a>
+<a class="gumroad-button" href="https://gumroad.com/l/TiACLd">Pre-order paperback</a>
+</div>
+
 > To call what I am feeling a 'crush' feels inexact. It is not puppy love. It is not new relationship energy. It is not lust. It is an uncontrollable romantic desire.
 >
 > It is not grounded in our friendship or my attraction to her. It is more of an obsession. A desperate need for her to feel the same way about me. A craving. A pang. A wildness of the heart that is as frightening as it is pleasant.
@@ -11,7 +17,7 @@
 
 Six tales of love. Six tales of need, of desire, of how to live with the ones you cannot live without. Sawtooth may be a nothing town in a flyover state, but those that live there are no less real for it. They bear all the same emotions as anyone else, have all the same needs.
 
-**Coming November 1, 2021! Pre-order starts September 15!**
+**Coming November 1, 2021!**
 
 -----
 

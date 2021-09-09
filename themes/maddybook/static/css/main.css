@@ -50,6 +50,15 @@ h1 small {
 .title blockquote:first-of-type {
     font-style: italic;
 }
+.order {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
+.order a {
+    display: inline-block;
+    margin: 0.5rem;
+}
 ul.pagination {
     margin: 1rem 0;
     padding: 0;
