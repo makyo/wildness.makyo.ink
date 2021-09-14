@@ -1,5 +1,5 @@
 ---
-title: Folding Laundry
+title: Sorting Laundry
 ---
 
 "You always have to sort your laundry," her mother always said. "Separate the lights from the darks, at the very least. Try to get all the bright colors in one load, at least for the first few washes, than you can mix them with the dark."
