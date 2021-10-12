@@ -23,9 +23,13 @@ Six tales of love. Six tales of need, of desire, of how to live with the ones yo
 
 ## Advance praise
 
-I'm struck by how, after finishing the collection, it feels like I've witnessed a ritual.
+> I'm struck by how, after finishing the collection, it feels like I've witnessed a ritual.
 
 --- [*Rob MacWolf*](https://twitter.com/guywhowrotethis)
+
+> If you like your coyotes Catholic and angsty, check it out.
+
+--- [Southpaws Podcast](https://southpawscast.podbean.com/e/episode-502-they-re-not-grrreat/) (1:20 to 2:30)
 
 -----
 
