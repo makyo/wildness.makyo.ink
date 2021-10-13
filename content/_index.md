@@ -27,7 +27,7 @@ Six tales of love. Six tales of need, of desire, of how to live with the ones yo
 
 --- [*Rob MacWolf*](https://twitter.com/guywhowrotethis)
 
-> If you like your coyotes Catholic and angsty, check it out.
+> If you like your coyotes Catholic and angsty, check it out . . . I can't speak highly enough of her writing.
 
 --- [Southpaws Podcast](https://southpawscast.podbean.com/e/episode-502-they-re-not-grrreat/) (1:20 to 2:30)
 
