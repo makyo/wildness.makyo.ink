@@ -25,7 +25,7 @@ Six tales of love. Six tales of need, of desire, of how to live with the ones yo
 
 > I'm struck by how, after finishing the collection, it feels like I've witnessed a ritual.
 
---- [*Rob MacWolf*](https://twitter.com/guywhowrotethis)
+--- [*Rob MacWolf*](https://www.goodreads.com/review/show/4277367183)
 
 > If you like your coyotes Catholic and angsty, check it out . . . I can't speak highly enough of her writing.
 
