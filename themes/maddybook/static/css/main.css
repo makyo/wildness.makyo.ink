@@ -43,7 +43,7 @@ h1 small {
     font-size: 20pt;
     text-align: center;
 }
-.title ul li p {
+.title ul li p, {
     text-indent: 0;
     text-align: justify;
 }
@@ -54,6 +54,9 @@ h1 small {
     width: 100%;
     text-align: center;
     margin: 0 auto;
+}
+.order p {
+    text-indent: 0;
 }
 .order a {
     display: inline-block;
