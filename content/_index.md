@@ -43,6 +43,10 @@ Much of the book is available to read for free online if you are unable to affor
 
 --- [Brandy Lewis](https://www.amazon.com/gp/customer-reviews/R14R9SFQ169T2/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=1948743213)
 
+> [A] deep dive into the often uncomfortable emotions surrounding the process of admitting love to yourself.
+
+--- [Nenekiri Bookwyrm](https://www.goodreads.com/review/show/4343468157)
+
 > If you like your coyotes Catholic and angsty, check it out . . . I can't speak highly enough of her writing.
 
 --- [Southpaws Podcast](https://southpawscast.podbean.com/e/episode-502-they-re-not-grrreat/) (1:20 to 2:30)
