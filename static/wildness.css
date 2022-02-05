@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css?family=Gentium+Book+Basic");
+@font-face {
+    font-family: "Tom's New Roman";
+    font-weight: 400;
+    font-style: normal;
+    src: url("/tomnr.woff") format("woff");
+}
+header, footer, .title ul li p:first-of-type, ul.pagination, h1, h2 {
+    font-family: "Tom's New Roman", serif;
+}

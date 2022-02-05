@@ -11,6 +11,7 @@ paginatePath = ""
     author = 'Madison Scott-Clary'
     home = 'https://makyo.ink'
     copyright = 2021
+    customCSS = ['wildness.css']
 
 [markup.goldmark.renderer]
     unsafe = true
