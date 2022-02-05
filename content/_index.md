@@ -20,7 +20,7 @@ Six tales of love. Six tales of need, of desire, of how to live with the ones yo
 </p>
 <p>
 <a href="https://baddogbooks.com/product/a-wildness-of-the-heart-limerant-object-and-other-stories/" target="_blank">Order ebook from BadDogBooks</a><br/>
-Ordering from FurPlanet coming soon!
+<a href="https://furplanet.com/shop/item.aspx?itemid=1188" target="_blank">Order paperback from FurPlanet</a>
 </p>
 <p>
 <em>Also available for many internet retailers, but consider supporting small businesses!</em>
@@ -30,26 +30,6 @@ Ordering from FurPlanet coming soon!
 Much of the book is available to read for free online if you are unable to afford purchasing, because the global panoramic is still a thing
 </p>
 </div>
-
------
-
-## Advance praise
-
-> I'm struck by how, after finishing the collection, it feels like I've witnessed a ritual.
-
---- [*Rob MacWolf*](https://www.goodreads.com/review/show/4277367183)
-
-> Scott-Clary builds a world readers can fall into as though it were their own, and again shows that slice-of-life, even political looks at the world around us are still necessary within our contemporary moment. 
-
---- [Brandy Lewis](https://www.amazon.com/gp/customer-reviews/R14R9SFQ169T2/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=1948743213)
-
-> [A] deep dive into the often uncomfortable emotions surrounding the process of admitting love to yourself.
-
---- [Nenekiri Bookwyrm](https://www.goodreads.com/review/show/4343468157)
-
-> If you like your coyotes Catholic and angsty, check it out . . . I can't speak highly enough of her writing.
-
---- [Southpaws Podcast](https://southpawscast.podbean.com/e/episode-502-they-re-not-grrreat/) (1:20 to 2:30)
 
 -----
 
@@ -73,6 +53,24 @@ Much of the book is available to read for free online if you are unable to affor
 * [Of Foxes and Milkshakes](/of-foxes-and-milkshakes)
 
   Two foxes, one vanilla-flavored kiss.
+
+## Advance praise
+
+> I'm struck by how, after finishing the collection, it feels like I've witnessed a ritual.
+
+--- [*Rob MacWolf*](https://www.goodreads.com/review/show/4277367183)
+
+> Scott-Clary builds a world readers can fall into as though it were their own, and again shows that slice-of-life, even political looks at the world around us are still necessary within our contemporary moment. 
+
+--- [Brandy Lewis](https://www.amazon.com/gp/customer-reviews/R14R9SFQ169T2/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=1948743213)
+
+> [A] deep dive into the often uncomfortable emotions surrounding the process of admitting love to yourself.
+
+--- [Nenekiri Bookwyrm](https://www.goodreads.com/review/show/4343468157)
+
+> If you like your coyotes Catholic and angsty, check it out . . . I can't speak highly enough of her writing.
+
+--- [Southpaws Podcast](https://southpawscast.podbean.com/e/episode-502-they-re-not-grrreat/) (1:20 to 2:30)
 
 ### Content Warnings
 
