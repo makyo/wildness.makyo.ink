@@ -54,7 +54,7 @@ Much of the book is available to read for free online if you are unable to affor
 
   Two foxes, one vanilla-flavored kiss.
 
-## Advance praise
+## Praise
 
 > I'm struck by how, after finishing the collection, it feels like I've witnessed a ritual.
 
@@ -71,6 +71,10 @@ Much of the book is available to read for free online if you are unable to affor
 > If you like your coyotes Catholic and angsty, check it out . . . I can't speak highly enough of her writing.
 
 --- [Southpaws Podcast](https://southpawscast.podbean.com/e/episode-502-they-re-not-grrreat/) (1:20 to 2:30)
+
+> A poignant reflection on the complicated feelings that nearly all people grapple with during at least some points in our lives, brimming with romantic passion and yet constructed with a mature restraint, and possessing a subtle intimacy that permeates nearly every page, A Wildness of the Heart manages something truly special. . .
+
+--- [Furry Book Review](https://furrybookreview.com/wildness-of-the-heart/)
 
 ### Content Warnings
 
