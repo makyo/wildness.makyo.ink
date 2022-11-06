@@ -12,26 +12,21 @@
 
 Six tales of love. Six tales of need, of desire, of how to live with the ones you cannot live without. Sawtooth may be a nothing town in a flyover state, but those that live there are no less real for it. They bear all the same emotions as anyone else, have all the same needs.
 
-<div class="order">
-<script src="https://gumroad.com/js/gumroad.js"></script>
+<div class="buy">
 <p>
-<a class="gumroad-button" href="https://gumroad.com/l/TiACLd">Order ebook</a>
-<a class="gumroad-button" href="https://makyo-ink.square.site/product/awoth/8">Order paperback</a>
-</p>
-<p>
+<a href="https://makyo.itch.io/a-wildness-of-the-heart">Order ebook</a>
+<a href="https://makyo-ink.square.site/product/awoth/8">Order paperback</a>
 <a href="https://baddogbooks.com/product/a-wildness-of-the-heart-limerant-object-and-other-stories/" target="_blank">Order ebook from BadDogBooks</a><br/>
 <a href="https://furplanet.com/shop/item.aspx?itemid=1188" target="_blank">Order paperback from FurPlanet</a>
 </p>
 <p>
 <em>Also available for many internet retailers, but consider supporting small businesses!</em>
 </p>
-<hr />
-<p>
-Much of the book is available to read for free online if you are unable to afford purchasing, because the global panoramic is still a thing
-</p>
 </div>
 
 -----
+
+Much of the book is available to read for free online if you are unable to afford purchasing, because the global panoramic is still a thing
 
 ## Contents
 
