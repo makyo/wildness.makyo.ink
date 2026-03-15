@@ -5,7 +5,7 @@ theme = 'maddybook'
 paginatePath = ""
 
 [permalinks]
-    post = '/:filename/'
+    post = '/:contentbasename/'
 
 [params]
     author = 'Madison Scott-Clary'

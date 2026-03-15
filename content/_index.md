@@ -30,24 +30,7 @@ Much of the book is available to read for free online if you are unable to affor
 
 ## Contents
 
-* [Jump](/jump)
-
-  Some folks were just built to jump. What do you do when that gets to be too much?
-* [Limerent Object](/limerent-object)
-
-  Dee Kimana, an ex-seminarian coyote, is in love. Maybe. Perhaps? His constant doubts plague him, and as he strives to journal his way towards greater understanding of himself and his emotions, he delves deeper and deeper into the past.
-* [Gigs](/gigs)
-
-  The gig economy, while useful for providing some income to those in need, comes with its own downfalls and dangers, as Winter soon finds.
-* Sorting Laundry
-
-  It's weird what you remember from childhood, isn't it? Almost as weird as what brings those memories to the surface.
-* Morning Of
-
-  Surgery and airports --- two places where you give yourself into your trust in professionals. But where, exactly, does that point lie?
-* [Of Foxes and Milkshakes](/of-foxes-and-milkshakes)
-
-  Two foxes, one vanilla-flavored kiss.
+{{< works corpus="works" >}}
 
 ## Praise
 

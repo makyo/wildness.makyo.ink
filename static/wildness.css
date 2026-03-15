@@ -8,3 +8,7 @@
 header, footer, .title ul li p:first-of-type, ul.pagination, h1, h2 {
     font-family: "Tom's New Roman", serif;
 }
+
+.works .author {
+    display: none;
+}
