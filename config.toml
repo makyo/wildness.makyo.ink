@@ -8,6 +8,7 @@ paginatePath = ""
     post = '/:contentbasename/'
 
 [params]
+    subtitle = 'Limerent Object and other stories'
     author = 'Madison Scott-Clary'
     home = 'https://makyo.ink'
     copyright = 2021
